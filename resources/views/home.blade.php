@@ -111,20 +111,6 @@
                     <h2>About AuraLumens</h2>
                     <p class="lead">AuraLumens combines cutting-edge light therapy technology with premium audio experiences to create a powerful tool for meditation, relaxation, and wellness.</p>
                     <p>Our app uses your iPhone's flashlight to create precisely timed strobe effects that can help with meditation, focus, and therapeutic applications. Combined with our curated audio tracks, AuraLumens offers a unique sensory experience that promotes relaxation and mindfulness.</p>
-                    <div class="about-stats">
-                        <div class="stat">
-                            <h3>10,000+</h3>
-                            <p>Users</p>
-                        </div>
-                        <div class="stat">
-                            <h3>50+</h3>
-                            <p>Audio Tracks</p>
-                        </div>
-                        <div class="stat">
-                            <h3>4.8★</h3>
-                            <p>App Store Rating</p>
-                        </div>
-                    </div>
                 </div>
                 <div class="about-image">
                     <div class="meditation-scene">
